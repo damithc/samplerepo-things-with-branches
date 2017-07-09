@@ -1,5 +1,6 @@
 COLORS
 ------
 blue
+black
 red
 white
