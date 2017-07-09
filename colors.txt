@@ -2,5 +2,6 @@ COLORS
 ------
 blue
 black
+green
 red
 white
